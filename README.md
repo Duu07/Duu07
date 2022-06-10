@@ -1,6 +1,6 @@
 # opa eu sou o Dudu
  Sou muito bom no "fut", famoso disputado pra vê em qual time vou jogar.
- Tenho ótimas notas no colégio, porém minha disciplina não é uma das melhores.
+ Tenho ótimas notas no colégio.
 
 
 
